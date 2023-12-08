@@ -1,0 +1,24 @@
+ID: row index (not an attribute)
+TARGET-LifeExpectancy: Life Expectancy (months)
+Company: unique identifier of Country
+Year: Year
+Company_Status: Developed or Developing status (0, 1)
+Company_Confidence: probability of any product from this company lasting between 15 and 60 Months per 1000 sample
+Company_device_confidence: Probability of the product (this specific product) from this company lasting between 15 and 60 month per 1000 samples
+Device_confidence: Probability of the product (this specific product) from any company lasting between 15 and 60 month per 1000 samples
+Device_returen: Number of returned devices based on faulty parts per 1000 samples
+Test_Fail: average of detected faulty products per week during sample inspections
+PercentageExpenditure: Expenditure on device's quality enhancement as a percentage of gross income from the product (%)
+Engine_Cooling: Cooling system failiour- number of reported cases per 1000 sample
+Gas_Pressure: Average of gas presure in section B of the device during rutine inspections on selected samples
+Obsolescence: under-five month obsolescence per 1000 sample
+ISO_23: Percentage of the product of the compny meeting ISO_23 standard(%)
+TotalExpenditure: General government (of the company's location) expenditure on inspecting the standard of the products, as a percentage of total government expenditure (%)
+STRD_DTP: percentage of STRD_DTP covered warenty for 1-year (% of covered products from this company)
+Engine_failure: Factor indicating the engine failure per 1 000 products (0-4 months)
+GDP: Gross Domestic Product per capita (in USD) where the company is located
+Product_Quantity: Total product of the company per year
+Engine_failure_Prevalence: Prevalence of engine failure, in terms of the reduction of recorded failure compared to last year (% )
+Leakage_Prevalence: Prevalence of Leakage, , in terms of the reduction of recorded failure compared to last year (% )
+IncomeCompositionOfResources : Human Development Index in terms of income composition of resources (index ranging from 0 to 1)
+RD: Comapny's R&D sector
